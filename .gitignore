@@ -1,1 +1,4 @@
 node_modules/
+
+# stubbed copies of index.html built by the test harness
+__*test.html
